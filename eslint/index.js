@@ -1,0 +1,1 @@
+const idade = 6;
